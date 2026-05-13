@@ -5,7 +5,7 @@ A data-driven Operations Case Study focused on student progress tracking, automa
 ### Project by: Deep Tiwari
 
 ## 📌 Project Overview
-This project focuses on managing and optimizing student operations for a Bootcamp. It involves tracking real-time student progress, identifying "At-Risk" students using data analytics, and implementing a systematic communication strategy to improve engagement.
+This project focuses on managing and optimizing student operations for a Bootcamp. It involves tracking real-time student progress, identifying "At-Risk" students using data analytics, and implementing a systematic communication strategy to improve engagement.......
 
 ## 🚀 Key Features & Implementation
 
